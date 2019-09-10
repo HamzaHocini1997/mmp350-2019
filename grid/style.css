@@ -1,1 +1,5 @@
-@import "layout.css";
+@import "layout-2.css";
+@import "typography.css";
+
+
+img { width: 100%; }
